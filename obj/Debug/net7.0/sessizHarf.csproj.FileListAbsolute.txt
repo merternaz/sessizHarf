@@ -1,0 +1,15 @@
+C:\Users\MONSTER\GitProject\sessizHarf\obj\Debug\net7.0\sessizHarf.csproj.AssemblyReference.cache
+C:\Users\MONSTER\GitProject\sessizHarf\obj\Debug\net7.0\sessizHarf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONSTER\GitProject\sessizHarf\obj\Debug\net7.0\sessizHarf.AssemblyInfoInputs.cache
+C:\Users\MONSTER\GitProject\sessizHarf\obj\Debug\net7.0\sessizHarf.AssemblyInfo.cs
+C:\Users\MONSTER\GitProject\sessizHarf\obj\Debug\net7.0\sessizHarf.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\GitProject\sessizHarf\bin\Debug\net7.0\sessizHarf.exe
+C:\Users\MONSTER\GitProject\sessizHarf\bin\Debug\net7.0\sessizHarf.deps.json
+C:\Users\MONSTER\GitProject\sessizHarf\bin\Debug\net7.0\sessizHarf.runtimeconfig.json
+C:\Users\MONSTER\GitProject\sessizHarf\bin\Debug\net7.0\sessizHarf.dll
+C:\Users\MONSTER\GitProject\sessizHarf\bin\Debug\net7.0\sessizHarf.pdb
+C:\Users\MONSTER\GitProject\sessizHarf\obj\Debug\net7.0\sessizHarf.dll
+C:\Users\MONSTER\GitProject\sessizHarf\obj\Debug\net7.0\refint\sessizHarf.dll
+C:\Users\MONSTER\GitProject\sessizHarf\obj\Debug\net7.0\sessizHarf.pdb
+C:\Users\MONSTER\GitProject\sessizHarf\obj\Debug\net7.0\sessizHarf.genruntimeconfig.cache
+C:\Users\MONSTER\GitProject\sessizHarf\obj\Debug\net7.0\ref\sessizHarf.dll
