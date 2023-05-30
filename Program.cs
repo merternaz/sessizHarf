@@ -18,34 +18,14 @@ namespace structures
 
                 int counter=0;
                 bool silent=false;
-                foreach(var harf in kelime){
+             
 
-                     /*if(!sesli.Contains(harf.ToString())){
-                        counter++;
-                        if(counter>1){
-                            silent=true;
-                            
+                for(int i=0;i<kelime.Length;i++){
+                    if(i>0){
+                        if(!sesli.Contains(kelime[i].ToString())&&!sesli.Contains(kelime[i-1].ToString())){
+                        silent=true;
                         }
-
-                    }else{
-                        counter=0;
-                        silent=false;
-                    }*/
-                    if(counter>0){
-                        if(!sesli.Contains(kelime[counter].ToString())&&!sesli.Contains(kelime[counter-1].ToString())){
-                        // silent=true;
-                        Console.WriteLine(kelime+"/"+kelime[counter-1].ToString()+kelime[counter].ToString());
-                        }else{
-                            silent=true;
-                        }
-
-                     /*   Console.Write(" "+kelime[counter].ToString());
-                        
-                        Console.Write(" "+sesli.Contains(kelime[counter].ToString()));
-                        Console.WriteLine(" ");*/
                     }
-                    
-                    counter++;
                     
                 }
 
